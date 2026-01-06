@@ -1,54 +1,62 @@
-# React + TypeScript + Vite
+# [Fluxo](https://fluxo.leogomesdev.com) 🍅
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Domine seu tempo com foco e simplicidade.
 
-Currently, two official plugins are available:
+O **Fluxo** é uma ferramenta de produtividade baseada na **Técnica Pomodoro**, desenvolvida para quem busca alta performance sem abrir mão do bem-estar. Através de ciclos inteligentes de foco e descanso, ajudamos você a manter a agilidade mental e evitar o burnout.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🚀 **Acesse agora:** [fluxo.leogomesdev.com](https://fluxo.leogomesdev.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## 🍅 A Técnica Pomodoro
+Criada por *Francesco Cirillo*, esta metodologia consiste em dividir o trabalho em blocos de foco total intercalados com pausas estratégicas.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+### O Método Tradicional:
+1. **Escolha uma tarefa:** Priorize uma única atividade por vez.
+2. **Ciclo de 25 minutos:** Trabalhe sem interrupções até o timer tocar.
+3. **Pausa Curta (5 min):** Desconecte-se totalmente do trabalho.
+4. **Pausa Longa (15-30 min):** A cada 4 ciclos, recupere as energias com um descanso maior.
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🚀 O Diferencial do Fluxo
+Nosso app automatiza a gestão dos seus ciclos, proporcionando uma experiência fluida e moderna:
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+### ⚙️ Customização Total
+Personalize os tempos de foco, descanso curto e longo para se adaptarem ao seu ritmo de trabalho único.
+
+### 🔁 Ciclos Inteligentes
+O sistema organiza sua jornada automaticamente:
+- **Ciclos Ímpares:** Períodos de Trabalho (Foco).
+- **Ciclos Pares:** Descanso Curto.
+- **8º Ciclo:** Descanso Longo especial para resetar a sequência.
+
+### 📊 Monitoramento e Histórico
+Acompanhe sua evolução através de indicadores visuais:
+- 🟡 **Trabalho**
+- 🟢 **Descanso Curto**
+- 🔵 **Descanso Longo**
+
+Todas as suas atividades são salvas automaticamente no seu histórico para análise de performance.
+
+---
+
+## ✨ Por que escolher o Fluxo?
+- ✅ **Interface Premium:** Design minimalista em *Deep Black* e *Emerald Green*.
+- ✅ **Gestão Visual:** Ciclos identificados por cores intuitivas.
+- ✅ **Histórico Automático:** Nunca perca o registro das suas tarefas concluídas.
+- ✅ **Foco Total:** Experiência livre de distrações e anúncios.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+- [React](reactjs.org) + [Vite](vitejs.dev)
+- [TypeScript](www.typescriptlang.org)
+- [Styled Components / CSS Variables](styled-components.com)
+
+---
+
+> *"O tempo é o que mais desejamos, mas o que pior usamos."* — **William Penn**
+
+---
+**Fluxo © 2026** - Desenvolvido por [Leo Gomes Developer](github.com)
