@@ -1,38 +1,38 @@
-{
-  "window.zoomLevel": 0.5,
-  "breadcrumbs.enabled": false,
-  "editor.fontSize": 16,
-  "debug.console.fontSize": 16,
-  "terminal.integrated.fontSize": 16,
-  "editor.glyphMargin": false,
-  "workbench.activityBar.location": "default",
-  "editor.lineNumbers": "off",
-  "files.eol": "\n", // Final de linha sempre será LF
-  "workbench.editor.labelFormat": "short",
-  "editor.tabSize": 2,
-  "explorer.compactFolders": false,
+// {
+//   "window.zoomLevel": 0.5,
+//   "breadcrumbs.enabled": false,
+//   "editor.fontSize": 16,
+//   "debug.console.fontSize": 16,
+//   "terminal.integrated.fontSize": 16,
+//   "editor.glyphMargin": false,
+//   "workbench.activityBar.location": "default",
+//   "editor.lineNumbers": "off",
+//   "files.eol": "\n", // Final de linha sempre será LF
+//   "workbench.editor.labelFormat": "short",
+//   "editor.tabSize": 2,
+//   "explorer.compactFolders": false,
 
-  // 🛠 Formatação e Lint
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "editor.formatOnSave": true,
+//   // 🛠 Formatação e Lint
+//   "editor.defaultFormatter": "esbenp.prettier-vscode",
+//   "editor.formatOnSave": true,
 
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": "explicit"
-  },
+//   "editor.codeActionsOnSave": {
+//     "source.fixAll.eslint": "explicit"
+//   },
 
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[xml]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[svg]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
-}
+//   "[javascript]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   },
+//   "[typescript]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   },
+//   "[xml]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   },
+//   "[svg]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   },
+//   "[html]": {
+//     "editor.defaultFormatter": "esbenp.prettier-vscode"
+//   }
+// }
