@@ -59,4 +59,4 @@ Todas as suas atividades são salvas automaticamente no seu histórico para aná
 > *"O tempo é o que mais desejamos, mas o que pior usamos."* — **William Penn**
 
 ---
-**Fluxo © 2026** - Desenvolvido por [Leo Gomes Developer](leogomesdev.com)
+**Fluxo © 2026** - Desenvolvido por [Leo Gomes Developer](https://leogomesdev.com/)
