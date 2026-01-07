@@ -4,7 +4,10 @@ import { RouterLink } from '../RouterLink';
 export function Footer() {
   return (
     <footer className={styles.footer}>
-      <RouterLink href='https://mpago.la/1kz2Yay' target='_blank'>
+      <RouterLink
+        href='https://www.mercadopago.com.br/subscriptions/checkout?preapproval_plan_id=444f1eb39bc44922871a3d10b7350c81'
+        target='_blank'
+      >
         <h3 className={styles.titleApoio}>Gostou do projeto?</h3>
         <p>Se este trabalho te ajudou, considere me pagar um café!</p>
       </RouterLink>
