@@ -9,7 +9,7 @@ export function Footer() {
         target='_blank'
       >
         <h3 className={styles.titleApoio}>Gostou do projeto?</h3>
-        <p>Se este trabalho te ajudou, considere me pagar um café!</p>
+        <p>Se este trabalho te ajudou, considere apoiar esse projeto!</p>
       </RouterLink>
       <RouterLink href='/about-pomodoro/'>
         Entenda como funciona a técnica pomodoro
